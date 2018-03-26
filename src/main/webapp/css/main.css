@@ -1,0 +1,12 @@
+.user-title{
+    color:turquoise;
+    background-color: cadetblue;
+}
+.body{
+    padding-top: 200px;
+    background-image: url("../webapp/image/image.png");
+    background-size: cover;
+}
+.my-form{
+    width: 400px;
+}
